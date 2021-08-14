@@ -1,0 +1,4 @@
+. filter=lfs diff=lfs merge=lfs -text
+system/system/priv-app/OppoGallery2/OppoGallery2.apk filter=lfs diff=lfs merge=lfs -text
+system/system/priv-app/Settings/Settings.apk filter=lfs diff=lfs merge=lfs -text
+system/system/product/priv-app/Velvet/Velvet.apk filter=lfs diff=lfs merge=lfs -text
