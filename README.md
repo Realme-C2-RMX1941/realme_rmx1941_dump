@@ -15,7 +15,7 @@
 - Fingerprint: 
 - OTA version: RMX1941EX_11.C.57_1570_202105312053
 - Branch: RMX1941EX_11.C.57_1570_202105312053
-- Repo: realme_rmx1941_dump
+- Repo: realme_rmx1941-C57_dump
 
 
 >Dumped by [Phoenix Firmware Dumper](https://github.com/DroidDumps/phoenix_firmware_dumper)
